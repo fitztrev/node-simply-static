@@ -1,0 +1,24 @@
+{
+  "name": "node-simply-static",
+  "version": "0.1.0",
+  "description": "Simple script to serve a static site through Node.js.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fitztrev/node-simply-static.git"
+  },
+  "keywords": [
+    "static"
+  ],
+  "author": "Trevor Fitzgerald",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
